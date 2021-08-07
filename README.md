@@ -66,7 +66,7 @@ Make sure you fill in the description above.  And please note the comment about 
 
 ## Rubric
 
-Graded out of 15.
+Graded out of 100.
 
 1. Your project runs locally using `npm run start` (1)
 2. Menu appears and disappears appropriately on the desktop (1)
