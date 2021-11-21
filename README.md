@@ -1,4 +1,4 @@
-# Assignment 16: Cross-Modality UI and Something Fun
+# Assignment: Cross-Modality UI and Something Fun
 
 In this assignment, you will implement a "fun interactive 3D world" that needs to satisfy a few constraints. As with A2 and A3, you may implement this using any of the 3 environments from Assignment 1 (Babylon.js, Playcanvas Editor, or Playcanvas Engine).  You may reuse any of your code from previous assignments. This template is empty (except for a .gitignore file and this README.md);  you should fill in the project with something similar to 1(a), 1(b), or 1(c) and follow the corresponding instructions for submission.
 
